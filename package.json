@@ -1,6 +1,6 @@
 {
   "name": "@visum-run/linkedin-finder",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Find any LinkedIn Profile and all its informations from an email.",
   "main": "index.js",
   "scripts": {
